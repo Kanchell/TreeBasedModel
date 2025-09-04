@@ -67,4 +67,4 @@ python decisionTree.py
 ---
 
 ## Author  
-**Nish Madhavprasad**  
+**Nisha Madavaprasad**  
