@@ -10,7 +10,7 @@ This project implements an **XGBoost regression pipeline** with preprocessing, m
 - Plotting predicted vs actual values and residuals  
 - Testing multiple hyperparameter configurations to optimize performance  
 
-The script is designed for experimentation with **tabular datasets** containing features `x1, x2, x3, x4` and target variables `y1` (default) or `y2`.  
+The script is designed for experimentation with **tabular datasets** containing features x1, x2, x3, x4 and target variables y1.  
 
 ---
 
